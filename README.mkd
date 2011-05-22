@@ -50,5 +50,64 @@ em um ambiente que proporciona experimentação e aprendizado**.
 Enorme investimento em treinamentos e conferências
 ==================================================
 
+A globo.com investe **PESADO** em treinamento de suas equipes. Isso fica
+evidente na quantidade de eventos que patrocinamos e mais ainda na quantidade
+de palestras que são ministradas por funcionários (e ex-funcionários) da
+globo.com pelo Brasil (e recentemente pelo mundo).
 
+Cada equipe possui uma verba anual para treinamentos, tanto internos quanto
+externos (conferências). A globo.com tem participação em todos os maiores
+eventos do mundo como: QCon, Velocity, Mobilism, AgileTour, Agiles, entre
+muitos outros.
+
+Além disso, diversos treinamentos são ministrados para os funcionários in-loco,
+de forma a reduzir o custo do treinamento e beneficiar o maior número possível
+de funcionários.
+
+Como se não bastasse, a globo.com patrocina o mestrado e doutorado de seus
+funcionários junto a PUC-Rio. Como sempre, visando o crescimento profissional
+das equipes.
+
+Desta forma, **você quer trabalhar na globo.com, para estar em uma empresa que
+vai invertir de forma consistente na sua carreira e crescimento profissional**.
+
+Ok, quero trabalhar na globo.com! Como eu faço?
+===============================================
+
+Se você se convenceu que quer trabalhar na globo.com, forka esse projeto, faz
+um pull request e preencha o arquivo cv.txt com a vaga que você escolheu e seu
+currículo. Sinta-se a vontade para incluir QUALQUER coisa que você acredite que
+vá ser bom pra sua imagem perante quem estará recebendo esses dados (twitter,
+facebook, sites online, outros trabalhos, etc).
+
+Gostaríamos de lembrar que se você quer trabalhar na área de desenvolvimento
+simplesmente porque dá dinheiro e realmente não está nessa por amor a
+profissão, por favor procure outra empresa. É essencial que os candidatos que
+mandarem currículo sejam apaixonados por desenvolvimento.
+
+Vagas Disponíveis
+=================
+
+Caso não haja nenhuma vaga disponível abaixo, não quer dizer que não estamos
+contratando! Faça o fork do projeto e mande no lugar da vaga "Nenhuma vaga
+disponível".
+
+Desenvolvedor Sênior - Equipe Home Globo.com
+--------------------------------------------
+
+Você quer trabalhar na porta de entrada da globo.com? Evoluir a aplicação que
+muda a vida de mais de 10 milhões de brasileiros todo dia? Essa é a sua vaga!
+
+Para trabalhar na nossa equipe você precisa se sentir confortável em
+experimentar novas linguagens de programação e saber pelo menos duas das abaixo
+bem:
+
+* Javascript
+* Python
+* Ruby
+* Node.js
+
+VERY BIG EXTRA POINTS para quem souber bem HTML e CSS (não estou falando de
+saber sintaxe de HTML e sim de saber cross-browsing, hacks, posicionamento,
+grids, etc).
 
