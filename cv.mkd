@@ -2,102 +2,170 @@ Vaga
 ====
 
 Desenvolvedor Sênior - Equipe Home Globo.com
+--------------------------------------------
 
 CV
 ==
 Roberto Hiroshi Moraes
+----------------------
 
-Informação pessoal
-Rua Madre de Deus, 1675 ap 8
-Mooca – São Paulo – São Paulo
-Cep: 03119-001
-Tel: (11) 2361-1206 / (11) 7114-1463
-Nasc: 04/02/1983
+### Informação pessoal
+_Nasc:_ 04/02/1983
+
 Brasileiro
-E-mail: rhmoraes@gmail.com
-Site: anotherhiro.net / afronteirafinal.com
-Twitter: @anotherhiro
-Git: https://github.com/
 
-Objetivo
-Atuar com desenvolvimento de web sites e serviços web, principalmente na otimização. Analisar
-relatórios de acesso para identificar quais os principais pontos de acesso e assim atuar nas necessidades
-Habilidades e competências
-Linguagens: HTML, CSS, JavaScript, PHP, Python, Web Standards, Ruby
-Frameworks: JQuery, Dojo, Django, Rails.
-Banco de dados: MySQL, PostGreSQL.
-Metodologias: XP, Scrum, Kanban.
+_Site:_ [anotherhiro.net](http://anotherhiro.net) / [afronteirafinal.com](http://afronteirafinal.com)
 
-Formação Acadêmica e Aprimoramento Profissional
-Universidade Anhembi Morumbi – São Paulo
-Criação e Desenvolvimento de Web Sites – Formado em 2004
-Colégio Eniac – Guarulhos
-2º Grau Técnico em Processamento de Dados - Formado em 2000
-Bovespa
-Bovespa Master – 01 e 02/08/2006 ( C.H. 16 horas)
-Sun Microsystems
-Análise e Projeto Orientado a Objetos – 05 a 09/08/2002 (C.H. 40 horas)
-Programação Java - 29/07/2002 a 02/08/2002 (C.H. 40 horas)
-Programação Java para Iniciantes - 10/07 a 23/07/2002 (C.H. 40 horas)
-SEBRAE – Serviço Brasileiro de Apoio às Micro e Pequenas Empresas
-Iniciando um Pequeno Grande Negócio – 17/10/2001 a 22/12/2001 (C.H. 30 horas)
-Utah Services Informática
-Linux IV – 10/09/2001 a 13/09/2001 (C.H.16 horas)
-Linux III – 31/08/2001 a 06/09/2001 (C.H. 20 horas)
-Linux II – 27/08/2001 a 30/08/2001 (C.H. 16 horas)
-Linux I – 20/08/2001 a 24/08/2001 (C.H. 20 horas)
-Colégio Eniac
-Rede Novell - 25/01/99 a 29/01/99 ( C.H. 15 horas)
-Tecsys Informática
-Manutenção e configuração de hardwares - 07/07/1998 a 30/07/1998 (carga horária 72 horas)
-Extreme Programming Brasil – 04, 05 e 06/12/2002.
-Soluções IBM em Business Intelligence - 28/11/2002
-Gerenciamento de conteúdo empresarial, o coração do e-business – 03/12/2002
-Sun Tech Days – 15 e 16/10/2002
+_Twitter:_ [@anotherhiro](http://twitter.com/anotherhiro)
 
-Experiência Profissional
-Mantenedor do site afronteirafinal.com/
-Editora Abril SA – 06/2008 – atual
-Atualmente atuando com o publicador para o site Contigo.
-Webmaster responsável pelo canal Compre seu carro do site Quatro Rodas.
-Desenvolvimento do site Info Downloads.
-Canais de video.Sonda Procwork 01/11/2007 - 06/2008
-Inclusão de templates no CMS para o iG. Projetos trabalhados:
-http://www.ig.com.br/
-http://www.ibest.com.br/
-http://www.brturbo.com.br/
-http://verao2008.ig.com.br/
-http://babado.ig.com.br/bbb8/
-http://finaldeano2007.ig.com.br/
+_Git:_ [https://github.com/rhmoraes](https://github.com/rhmoraes)
+
+### Objetivo
+>Atuar com desenvolvimento de web sites e serviços web, principalmente na otimização. Analisar relatórios de acesso para identificar quais os principais pontos de acesso e assim atuar nas necessidades.
+
+### Habilidades e competências
+
+> _Linguagens_: HTML, CSS, JavaScript, PHP, Python, Web Standards, Ruby
+
+> _Frameworks_: JQuery, Dojo, Django, Rails.
+
+> _Banco de dados_: MySQL, PostGreSQL.
+
+> _Metodologias_: XP, Scrum, Kanban.
+
+### Formação Acadêmica e Aprimoramento Profissional
+_Universidade Anhembi Morumbi_ – São Paulo
+
+> Criação e Desenvolvimento de Web Sites – Formado em 2004
+
+_Colégio Eniac_ – Guarulhos
+
+> 2º Grau Técnico em Processamento de Dados - Formado em 2000
+
+_Bovespa_
+
+> Bovespa Master – 01 e 02/08/2006 ( C.H. 16 horas)
+
+_Sun Microsystems_
+
+> Análise e Projeto Orientado a Objetos – 05 a 09/08/2002 (C.H. 40 horas)
+
+> Programação Java - 29/07/2002 a 02/08/2002 (C.H. 40 horas)
+
+> Programação Java para Iniciantes - 10/07 a 23/07/2002 (C.H. 40 horas)
+
+> SEBRAE – Serviço Brasileiro de Apoio às Micro e Pequenas Empresas
+
+> Iniciando um Pequeno Grande Negócio – 17/10/2001 a 22/12/2001 (C.H. 30 horas)
+
+_Utah Services Informática_
+
+> Linux IV – 10/09/2001 a 13/09/2001 (C.H.16 horas)
+
+> Linux III – 31/08/2001 a 06/09/2001 (C.H. 20 horas)
+
+> Linux II – 27/08/2001 a 30/08/2001 (C.H. 16 horas)
+
+> Linux I – 20/08/2001 a 24/08/2001 (C.H. 20 horas)
+
+_Colégio Eniac_
+
+> Rede Novell - 25/01/99 a 29/01/99 ( C.H. 15 horas)
+
+_Tecsys Informática_
+
+> Manutenção e configuração de hardwares - 07/07/1998 a 30/07/1998 (carga horária 72 horas)
+
+_Extreme Programming Brasil_ – 04, 05 e 06/12/2002.
+
+_Soluções IBM em Business Intelligence_ - 28/11/2002
+
+_Gerenciamento de conteúdo empresarial, o coração do e-business_ – 03/12/2002
+
+_Sun Tech Days_ – 15 e 16/10/2002
+
+### Experiência Profissional
+
+Mantenedor do site [http://afronteirafinal.com/](http://afronteirafinal.com/)
+
+_Editora Abril SA_ – 06/2008 – atual
+
+> Atualmente atuando com o publicador para o site Contigo.
+
+> Webmaster responsável pelo canal Compre seu carro do site Quatro Rodas.
+
+> Desenvolvimento do site Info Downloads.
+
+> Canais de video.
+
+Sonda Procwork 01/11/2007 - 06/2008
+
+> Inclusão de templates no CMS para o iG. Projetos trabalhados:
+
+> http://www.ig.com.br/
+
+> http://www.ibest.com.br/
+
+> http://www.brturbo.com.br/
+
+> http://verao2008.ig.com.br/
+
+> http://babado.ig.com.br/bbb8/
+
+> http://finaldeano2007.ig.com.br/
+
 Basics 01/05/2007 - 01/11/2007
-Inclusão de templates no CMS para o iG. Projetos trabalhados:
-Atitude - http://atitude.ig.com.br hoje desmenbrado em:
-http://astral.ig.com.br/
-http://casa.ig.com.br/
-http://gourmet.ig.com.br/
-http://estilo.ig.com.br/
-http://www.atitude.ig.com.br/moda/
-http://turismo.ig.com.br/
-http://tecnologia.ig.com.br/
-http://delas.ig.com.br/
-http://jovem.ig.com.br/
+
+> Inclusão de templates no CMS para o iG. Projetos trabalhados:
+
+> Atitude - http://atitude.ig.com.br hoje desmenbrado em:
+
+> http://astral.ig.com.br/
+
+> http://casa.ig.com.br/
+
+> http://gourmet.ig.com.br/
+
+> http://estilo.ig.com.br/
+
+> http://www.atitude.ig.com.br/moda/
+
+> http://turismo.ig.com.br/
+
+> http://tecnologia.ig.com.br/
+
+> http://delas.ig.com.br/
+
+> http://jovem.ig.com.br/
+
 Simple Brasil 01/04/2007 - 01/05/2007
-Manutenção de diversos sites. Dentre eles:
-Sucrilhos.com.br
-Melasmabrasil.com.br
-Concursocnn.com.br
+
+> Manutenção de diversos sites. Dentre eles:
+
+> Sucrilhos.com.br
+
+> Melasmabrasil.com.br
+
+> Concursocnn.com.br
+
 Atlas Visual 01/12/2005 – 30/03/2007
-Desenvolvimento de um sistema de relacionamento empresarial e busca feito em PHP
-(www.superyes.com).
-MySQL e Apache – utilizando recursos de orientação a objetos, stored procedures e views.
-Desenvolvimento do sistema de vendas externas em Palm utilizando o Pocket Studio(ferramenta
-baseada em Delphi)
+> Desenvolvimento de um sistema de relacionamento empresarial e busca feito em PHP(www.superyes.com).
+
+> MySQL e Apache – utilizando recursos de orientação a objetos, stored procedures e views.
+
+> Desenvolvimento do sistema de vendas externas em Palm utilizando o Pocket Studio(ferramenta baseada em Delphi)
+
 Uni Info Solutions - 1 ano
-Programador responsável pelo site e sistema UMovel alem de cuidar do sistema de intranet.
-Linguagem PHP e Banco de dados PostGreSQL.
+> Programador responsável pelo site e sistema UMovel alem de cuidar do sistema de intranet.
+
+> Linguagem PHP e Banco de dados PostGreSQL.
+
 Org Informática LTDA - 3 anos
-Professor de Lógica de programação, Hardware, e Administração de redes Linux
-Atuando com pouca frequência em aulas de Fireworks e Dreameaver.
+> Professor de Lógica de programação, Hardware, e Administração de redes Linux
+
+> Atuando com pouca frequência em aulas de Fireworks e Dreameaver.
+
 Eniac Colégio de Informática – 3 anos
-Estágio em Programação.
-Desenvolvimento de aplicativos em Visual Basic.
+> Estágio em Programação.
+
+> Desenvolvimento de aplicativos em Visual Basic.
