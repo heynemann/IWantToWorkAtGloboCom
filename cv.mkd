@@ -166,7 +166,7 @@ Coisas das quais me orgulho
       correr 'por fora' pra chegar perto das pessoas que eu admirava e
       conseguir trabalhos melhores
 
-* __Archlinux-br__
+* __Archlinux__
     * Ter tido contato com várias pessoas muito inteligentes e com a cultura
       opensource, tendo que atender os usuários da distribuição, triagem de
       problemas, conversar com outras distros para arrumarmos patches para
