@@ -7,6 +7,17 @@ Vaga
 CV
 ==
 
+Dados pessoais
+--------------
+
+Nome: Douglas Soares de Andrade
+Data de nascimento: 15/07/1982
+Email: contato@douglasandrade.com
+Twitter: douglasandrade
+
+Github: http://github.com/dsarch
+Bitbucket: http://bitbucket.org/douglas
+
 Objetivos
 ---------
 
