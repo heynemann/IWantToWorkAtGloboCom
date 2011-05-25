@@ -99,8 +99,11 @@ class ArCondicionado(object):
         # Nao podemos continuar a execucao e criacao de novas tarefas nas
         # seguintes situacoes:
         #    - o ar foi desligado
-        #    - a quantidade de execucoes foi atingida
-        if self.state == 0 or self._execucoes == self.runs:
+        #    - a quantidade de execucoes foi atingida (o ar deve ser desligado)
+        if self._execucoes == self.runs:
+            self.state = 0
+
+        if self.state == 0:
             return
         else:
             self.temp_atual += 0.5
