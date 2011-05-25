@@ -4,14 +4,58 @@ Problema da seleção para a Globo.com
 Desenvolvimento
 ---------------
 
-O sistema foi desenvolvimento em um OSX 10.6 e foi testado em um ubuntu 11.04 e
-procurei utilizar apenas a stdlib do python para realizar as operações segundo
-a demanda do cliente.
+O sistema foi desenvolvimento em um OSX 10.6 e foi testado em um ubuntu
+Maverick e procurei utilizar apenas a stdlib do python para realizar as
+operações segundo a demanda do cliente.
 
 Como executar
 -------------
 
 Faça um clone do projeto do meu fork:
 
-git clone git@github.com:dsarch/IWantToWorkAtGloboCom.git
+    git clone git@github.com:dsarch/IWantToWorkAtGloboCom.git
 
+Entre nos diretórios IWantToWorkAtGloboCom e acme_corp
+
+    cd IWantToWorkAtGloboCom/acme_corp
+
+Execute o seguinte commando:
+
+    make
+
+Comandos do Painel
+------------------
+
+* __info__  
+  Retorna a temperatura atual e os gastos e execucoes
+
+* __refrigera__ tempatual tempdesejada [acionamento] [execucoes]  
+  Liga o ar condicionado e mantem a temperatura estavel
+  
+* __desligar__  
+  Desligar o ar condicionado
+
+
+* __status__  
+  Mostra se o ar estah ligado ou desligado
+    
+* __quit__  
+  Sair do painel e desligar o ar condicionado
+
+Exemplo de uso
+--------------
+
+    $ python acmectl.py 
+    (Cmd) status
+    Desligado
+    (Cmd) refrigera 30 20 1 5
+    Ar condicionado ligado e resfriando !
+    (Cmd) status
+    Ligado
+    (Cmd) info
+    Temperatura: 21.5 / Gastos: 1.4 / Execucoes: 3
+    (Cmd) info
+    Temperatura: 21.5 / Gastos: 1.5 / Execucoes: 5
+    (Cmd) status
+    Desligado
+    (Cmd) quit
