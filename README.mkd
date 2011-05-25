@@ -123,3 +123,39 @@ maiores portais brasileiros de notícias e informação.
 
 Aqui trabalhamos principalmente com Python e JavaScript, portanto conhecer
 bem essas linguagens, além de práticas básicas como TDD/BDD/*DD, é fundamental.
+
+
+Área de Publicação de Conteúdo e Vendas (2 Vagas)
+------------------------------
+Requisitos Comuns: 
+- Ser apaixonado por desenvolvimento e tecnologia;
+- Ter conhecimento em desenvolvimento WEB (CSS, Javascript, Ajax);
+- Ter facilidade de trabalhar em equipe;
+
+Diferenciais Comuns:
+- Experiência em projetos de software livre;
+- Experência com testes e metodologias ágeis.
+
+Equipe: Plataforma de Publicação
+Requisito:
+- Ter conhecimento em Python e Django;
+
+Equipe: Plataforma de Busca e Semantica
+Requisito: 
+- Ter conhecimento de semantica e ontologia
+- Ter conhecimento em Java;
+
+	
+Sobre as vagas:
+- Local: Rio de Janeiro (não se preocupe, se você é de fora, nós te
+ajudamos com a mudança!)
+- Regime: CLT
+- Período: Integral
+- Contratação imediata
+
+Oferecemos salário de mercado! Além disso, também temos os seguintes benefícios:
+- Vale refeição
+- Plano de saúde
+- Plano odontologico opcional
+- Seguro de vida
+- Previdência Privada
