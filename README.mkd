@@ -115,3 +115,11 @@ VERY BIG EXTRA POINTS para quem souber bem HTML e CSS (não estou falando de
 saber sintaxe de HTML e sim de saber cross-browsing, hacks, posicionamento,
 grids, etc).
 
+Desenvolvedor - Equipe de Jornalismo (G1)
+-----------------------------------------
+
+Venha trabalhar no time responsável pelo [G1](http://g1.globo.com), um dos
+maiores portais brasileiros de notícias e informação.
+
+Aqui trabalhamos principalmente com Python e JavaScript, portanto conhecer
+bem essas linguagens, além de práticas básicas como TDD/BDD/*DD, é fundamental.
