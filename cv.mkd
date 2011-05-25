@@ -28,7 +28,7 @@ _Bolsista pesquisador_ --- _**Março de 2007 a Fevereiro de 2008**_
  * Ministrou aulas de Linux para estudantes da UFPR.
  * Pesquisas em projetos Open Source.
 
-#### LCG Software ####, Curitiba, Paraná, Brazil
+#### LCG Software #### , Curitiba, Paraná, Brazil
 
 _Desenvolvimento de bots e parsers_ --- _**Janeiro de 2008 a Outubro de 2009**_
 
