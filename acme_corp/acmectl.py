@@ -29,8 +29,16 @@ class PainelComando(cmd.Cmd):
     
     def do_desligar(self, line):
         """ Desligar o ar condicionado """
-        
+
         self.ar.desligar()
+    
+    def do_status(self, line):
+        """ Mostra se o ar estah ligado ou desligado """
+        
+        if self.ar.state == 0:
+            print "Desligado"
+        else:
+            print "Ligado"
     
     def do_quit(self, line):
         """ quit - Sair do painel de controle e desligar o ar condicionado """
