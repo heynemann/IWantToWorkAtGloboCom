@@ -1,9 +1,145 @@
-Vaga
-====
+# Vaga
 
-[Preencha aqui a vaga que você pretende]
+Desenvolvedor Sênior - Equipe Home Globo.com
 
-CV
-==
+# CV
 
-[Preencha aqui o seu cv]
+## Dados Pessoais
+
+**Nome:** Cezar Sá Espinola  
+[http://cezarsa.info](http://cezarsa.info)  
+Fortaleza - CE - Brasil
+
+## Objetivos
+
+Meu objetivo é sempre estar aprendendo coisas novas, enfrentando desafios
+interessantes e encarando novos problemas. Gosto de me envolver a fundo no que
+estou fazendo, e sempre procuro formas de fazer melhor o meu trabalho. Estou
+sempre ansioso aprender novas linguagens, tecnologias, paradigmas, APIs,
+frameworks e tudo mais.
+
+## Educação  
+
+Bacharel em Ciência da Computação, 2006 Universidade Estadual de
+Santa Cruz, Ilhéus, BA, Brasil
+
+## Experiência Profissional
+
+### Banco do Nordeste do Brasil S/A :: Analista e desenvolvedor de software.  
+Outubro 2006 – Atualidade  
+[http://www.bnb.gov.br](http://www.bnb.gov.br)
+
+Trabalhei no desenvolvimento de soluções SOA / JavaEE utilizando a suite BAM e
+BPM da IBM (Websphere Business Modeler, Websphere Integration Developer,
+Webshere Process Server, Websphere Business Monitor).
+
+As aplicações das quais participei do desenvolvimento estão implantadas em
+ambiente de produção e atendem processos críticos para o Banco do Nordeste.
+Essas soluções envolvem o desenvolvimento do fluxo de negócios executável em
+BPEL e o desenvolvimento de aplicações JavaEE que utilizam as APIs disponíveis
+para interação com o processo de negócio. Essas soluções fazem integrações com
+uma grande quantidade de outras aplicações desenvolvidas em plataformas
+heterogêneas. Também desenvolvi uma série de utilitários baseados em JavaScript
+e Ruby que utilizam APIs REST disponibilizadas pelos produtos para fins de
+análise de performance e outras intervenções.
+
+### Techmobil Ltda :: Co-fundador  
+Janeiro 2005 – Outubro 2006  
+[http://www.techmobil.com.br](http://www.techmobil.com.br)
+
+Trabalhei em diferentes áreas com foco em três segmentos distintos. O primeiro
+foi o desenvolvimento de aplicações sob encomenda e pequenos jogos para
+dispositivos móveis utilizando as plataformas JavaME e SuperWaba. Outra área em
+que trabalhei foi na criação do [BlueMark](http://www.bluemark.com.br), uma
+solução para marketing via Bluetooth desenvolvida em C++ utilizando APIs
+Bluetooth em plataforma Windows no lado do cliente, e Ruby on Rails no lado no
+servidor. Por último, também desenvolvi aplicações web utilizando Java e Ruby On
+Rails.
+
+## Experiência em projetos Open Source
+
+### Chromed Bird :: [https://github.com/cezarsa/chromed_bird](https://github.com/cezarsa/chromed_bird)  
+**Criador do projeto**
+
+O Chromed Bird é um cliente para o Twitter implementado como um extensão para o
+browser Google Chrome. Eu sou o criador do projeto e continuo até a atualidade
+realizando melhorias e gerando novas versões, já tendo recebido contribuições de
+mais de 20 desenvolvedores de diversas partes do globo. O Chromed Bird é todo
+escrito em JavaScript, HTML e CSS, e usa tecnologias modernas como as APIs do
+HTML 5, CSS 3, e chamadas a web services REST através de requisições AJAX.
+
+Atualmente o Chromed Bird é a extensão para acesso ao Twitter com maior
+quantidade de usuários dentre as existentes para o Google Chrome. Por causa
+desse motivo ganhou uma certa notoriedade sendo citada por alguns meios da
+imprensa nacional (Info Exame) e internacional (Ars Technica, PC World, PC
+Magazine). Também por causa dessa extensão, fui convidado pela Google Inc. a
+demonstrar o uso da tecnologia na área "Developer Sandbox" na conferência Google
+I/O 2010 realizada em San Francisco e a participar como palestrante convidado no
+evento Google Developer Day Brazil, realizado em São Paulo em Outubro de 2010.
+
+### CrxClone :: [http://crxclone.appspot.com/](http://crxclone.appspot.com/)  
+**Criador do projeto**
+
+O CrxClone é uma aplicação web desenvolvida na plataforma JRuby que implementa a
+linguagem Ruby em cima da Java Virtual Machine e permite o compartilhamento de
+código entre essas duas linguagens de forma direta. Essa aplicação tem a
+característica de estar hospedada no servidor de aplicação distribuído Google
+App Engine. A função dessa aplicação é detalhada na página da mesma.
+
+### Rubinius :: [http://rubini.us](http://rubini.us)  
+[**Contribuição com alguns commits**](https://github.com/evanphx/rubinius/commits/master?author=cezarsa)
+
+O Rubinius é uma implementação de um ambiente de execução para a linguagem Ruby
+criado por Evan Phoenix. O Rubinius consiste basicamente de um compilador para
+bytecode, um interpretador, um compilador JIT, e um conjunto de bibliotecas
+padrões Ruby, em sua maioria escritas na própria linguagem Ruby. As [minhas
+contribuições](https://github.com/evanphx/rubinius/commits/master?author=cezarsa)
+consistiram principalmente na implementação de parte da API para integrações com
+bibliotecas escritas em C / C++, e também na implementação e correção de parte
+das bibliotecas padrão utilizadas para IO.
+
+**Além dos projetos detalhados, também já tive contribuições menores aceitas para
+os projetos:**  
+RubySpec :: [http://www.rubyspec.org/](http://www.rubyspec.org/)  
+WxRuby :: [http://wxruby.rubyforge.org/](http://wxruby.rubyforge.org/)  
+RBus :: [http://rbus.rubyforge.org/](http://rbus.rubyforge.org/)  
+CamanJS :: [http://meltingice.github.com/CamanJS/](http://meltingice.github.com/CamanJS/)
+
+## Participações em conferências
+
+Google Developer Day Brazil :: Sheraton WTC, São Paulo :: 29/10/2010  
+**Paletrante convidado**
+
+Google I/O 2010 :: Moscone West, San Francisco :: 19-20/05/2010  
+**Expositor no Developer Sandbox**
+
+## Fluência em linguagens de programação
+
+Fluente: C, C++, Java, Ruby, JavaScript e SQL.  
+Razoável: Python  
+Conhecimento básico: Smalltalk, Lua, Shell Script, Haskell e Prolog.
+
+## Idiomas
+
+Fluente: Português, Inglês
+
+## Certificações
+
+SCJP – Sun Certified Programmer for the Java 2 Platform, Standard Edition 5
+
+## Cursos
+
+IBM WB111: Developing Business Integration Solutions for IBM Websphere Process Server (40.00 h/a)  
+IBM DEV496: Mastering IBM Rational Software Architect (24.00 h/a)  
+Essentials of Rational Software Architect - ERSA (8.00 h/a)  
+Mastering Object Oriented Analysis and Design with UML (32.00 h/a)  
+Mastering Requirements Management with Uses Cases (24.00 h/a)  
+Essentials of Rational Unified Process – ERUP (16.00 h/a)
+
+## Mais informações
+
+Perfil no Github: [http://github.com/cezarsa](http://github.com/cezarsa)  
+Perfil no Ohloh: [http://www.ohloh.net/accounts/cezarsa](http://www.ohloh.net/accounts/cezarsa)  
+Twitter: [http://twitter.com/cezarsa](http://twitter.com/cezarsa)  
+Google: [http://www.google.com/search?q=%22Cezar+S%C3%A1+Espinola%22+OR+cezarsa](http://www.google.com/search?q=%22Cezar+S%C3%A1+Espinola%22+OR+cezarsa)
+
