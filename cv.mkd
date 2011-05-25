@@ -21,14 +21,14 @@ Data prevista para conclusão: Junho de 2011
 
 ### Experiência Profissional ###
 
-[Grupo PET](http://www.pet.inf.ufpr.br/) (Programa de Educação Tutorial) ####, Universidade Federal do Paraná
+**[Grupo PET](http://www.pet.inf.ufpr.br/) (Programa de Educação Tutorial)**, Universidade Federal do Paraná
 
 _Bolsista pesquisador_ --- _**Março de 2007 a Fevereiro de 2008**_
 
  * Ministrou aulas de Linux para estudantes da UFPR.
  * Pesquisas em projetos Open Source.
 
-LCG Software, Curitiba, Paraná, Brazil
+**LCG Software**, Curitiba, Paraná, Brazil
 
 _Desenvolvimento de bots e parsers_ --- _**Janeiro de 2008 a Outubro de 2009**_
 
@@ -36,14 +36,14 @@ _Desenvolvimento de bots e parsers_ --- _**Janeiro de 2008 a Outubro de 2009**_
 * Desenvolvimento e implementação de bots para automatização.
 
 
-[Maestro Softwares](http://www.maestrosoft.com.br/), Curitiba, Paraná, Brazil
+**[Maestro Softwares](http://www.maestrosoft.com.br/)**, Curitiba, Paraná, Brazil
 
 _Desenvolvimento e Sysadmin_ --- _**Outubro de 2009 a Julho de 2010}**_
 
 * Desenvolvimento e correção de bugs no sistema de gerenciamento de projetos da [Genpro](http://www.genpro.com.br).
 * Administração do sistema de backup usando Bacula.
 
-Aliança Project, Curitiba, Paraná, Brazil
+**Aliança Project**, Curitiba, Paraná, Brazil
 
 _Supervisor, gerente de projeto e desenvolvedor_ --- _**Julho de 2010 a Março de 2011**_
 
