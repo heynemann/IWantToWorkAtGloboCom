@@ -134,7 +134,8 @@ Requisitos Comuns:
 * Ter conhecimento em desenvolvimento WEB (CSS, Javascript, Ajax);
 * Ter facilidade de trabalhar em equipe;
 
-Diferenciais Comuns:
+Diferenciais:
+
 * Experiência em projetos de software livre;
 * Experência com testes e metodologias ágeis.
 
@@ -161,6 +162,7 @@ ajudamos com a mudança!)
 * Contratação imediata
 
 Oferecemos salário de mercado! Além disso, também temos os seguintes benefícios:
+
 * Vale refeição
 * Plano de saúde
 * Plano odontologico opcional
