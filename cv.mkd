@@ -9,22 +9,21 @@ CV
 
 ### Contato ###
 
-_Telefone:_ +55 (41) 9977-6885                Algacyr Munhoz Mader, 2875
-                                              Bl 06, Ap 03
-_E-mail:_ <fernando@linhadefensiva.org>       Curitiba, Paraná
+_Telefone:_ +55 (41) 9977-6885
+_E-mail:_ <fernando@linhadefensiva.org>
 
 ### Formação ###
 
-[Universidade Federal do Paraná]<http://www.inf.ufpr.br/bcc>, Bacharelado em Ciência da Computação
+[Universidade Federal do Paraná](http://www.inf.ufpr.br/bcc), Bacharelado em Ciência da Computação
 
 Data prevista para conclusão: Junho de 2011
 
 ### Experiência Profissional ###
 
-#### [Grupo PET]<http://www.pet.inf.ufpr.br/> (Programa de Educação Tutorial) ####
+#### [Grupo PET](http://www.pet.inf.ufpr.br/) (Programa de Educação Tutorial) ####
 Universidade Federal do Paraná
 
-_Bolsista pesquisador_                            **Março de 2007 a Fevereiro de 2008**_
+_Bolsista pesquisador_ --- _**Março de 2007 a Fevereiro de 2008**_
 
  * Ministrou aulas de Linux para estudantes da UFPR.
  * Pesquisas em projetos Open Source.
@@ -32,16 +31,16 @@ _Bolsista pesquisador_                            **Março de 2007 a Fevereiro d
 #### LCG Software ####
 Curitiba, Paraná, Brazil
 
-_Desenvolvimento de bots e parsers_               _**Janeiro de 2008 a Outubro de 2009**_
+_Desenvolvimento de bots e parsers_ ___ _**Janeiro de 2008 a Outubro de 2009**_
 
 * Desenvolvimento e implementação de parsers para sites de apostas em esportes.
 * Desenvolvimento e implementação de bots para automatização.
 
 
-#### [Maestro Softwares]<http://www.maestrosoft.com.br/> ####
+#### [Maestro Softwares](http://www.maestrosoft.com.br/) ####
 Curitiba, Paraná, Brazil
 
-_Desenvolvimento e Sysadmin_                      _**Outubro de 2009 a Julho de 2010}**_
+_Desenvolvimento e Sysadmin_ --- _**Outubro de 2009 a Julho de 2010}**_
 
 * Desenvolvimento e correção de bugs no sistema de gerenciamento de projetos da [Genpro]<http://www.genpro.com.br>.
 * Administração do sistema de backup usando Bacula.
@@ -49,12 +48,11 @@ _Desenvolvimento e Sysadmin_                      _**Outubro de 2009 a Julho de 
 #### Aliança Project ####
 Curitiba, Paraná, Brazil
 
-
-_Supervisor, gerente de projeto e desenvolvedor_  _**Julho de 2010 a Março de 2011**_
+_Supervisor, gerente de projeto e desenvolvedor_ --- _**Julho de 2010 a Março de 2011**_
 
 * Responsável pela equipe de desenvolvimento de projeto voltado a web (Ruby on Rails).
 
-_ Coordenador de projetos_                        _**Março de 2011**_
+_Coordenador de projetos_ --- _**Março de 2011**_
 
 * A empresa se fundiu com outra e passou a ter o nome Ovo. Minhas novas funções passaram a ser:
   - Coordenar as equipes em todos os projetos da empresa
@@ -65,11 +63,11 @@ _ Coordenador de projetos_                        _**Março de 2011**_
 
 ### Eventos ###
 
-* Participante do [FISL (Fórum Internacional de Software Livre)]<http://www.fisl.org.br/10/www/>}} nos anos de 2008, 2009 e 2010.
+* Participante do [FISL (Fórum Internacional de Software Livre)](http://www.fisl.org.br/10/www/) nos anos de 2008, 2009 e 2010.
     
-* Participante do [Google Developer Day 2010]<http://www.google.com/events/developerday/2010/>.
+* Participante do [Google Developer Day 2010](http://www.google.com/events/developerday/2010/).
 
-* Participante do curso de python ofertado pela [UFPR]<http://www.inf.ufpr.br/bcc> no ano de 2008.
+* Participante do curso de python ofertado pela [UFPR](http://www.inf.ufpr.br/bcc) no ano de 2008.
 
 
 ### Qualificações técnicas ###
@@ -88,7 +86,7 @@ _ Coordenador de projetos_                        _**Março de 2011**_
 ### Trabalhos Voluntários ### 
 
 * Aulas de Linux Básico na comunidade da Vila Torres (como voluntário do Projeto Negaça, pela UFPR).
-* Membro da equipe de moderação do fórum [Linha Defensiva]<http://www.linhadefensiva.org>, um dos maiores fóruns online de informática do Brasil.
+* Membro da equipe de moderação do fórum [Linha Defensiva](http://www.linhadefensiva.org), um dos maiores fóruns online de informática do Brasil.
 
 ### Áreas de interesse ###
 
