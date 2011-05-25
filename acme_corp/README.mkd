@@ -1,0 +1,17 @@
+Problema da seleção para a Globo.com
+====================================
+
+Desenvolvimento
+---------------
+
+O sistema foi desenvolvimento em um OSX 10.6 e foi testado em um ubuntu 11.04 e
+procurei utilizar apenas a stdlib do python para realizar as operações segundo
+a demanda do cliente.
+
+Como executar
+-------------
+
+Faça um clone do projeto do meu fork:
+
+git clone git@github.com:dsarch/IWantToWorkAtGloboCom.git
+
