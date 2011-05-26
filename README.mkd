@@ -113,10 +113,10 @@ Caso não haja nenhuma vaga disponível abaixo, não quer dizer que não estamos
 contratando! Faça o fork do projeto e mande no lugar da vaga "Nenhuma vaga
 disponível".
 
-Desenvolvedor Sênior - Equipe Home Globo.com
---------------------------------------------
+Equipe Home Globo.com - Desenvolvedor Sênior (1 Vaga)
+-----------------------------------------------------
 
-Você quer trabalhar na porta de entrada da globo.com? Evoluir a aplicação que
+Você quer trabalhar na [porta de entrada da globo.com](http://globo.com)? Evoluir a aplicação que
 muda a vida de mais de 10 milhões de brasileiros todo dia? Essa é a sua vaga!
 
 Para trabalhar na nossa equipe você precisa se sentir confortável em
@@ -132,8 +132,8 @@ VERY BIG EXTRA POINTS para quem souber bem HTML e CSS (não estou falando de
 saber sintaxe de HTML e sim de saber cross-browsing, hacks, posicionamento,
 grids, etc).
 
-Desenvolvedor - Equipe de Jornalismo (G1)
------------------------------------------
+Desenvolvedor - Equipe de Jornalismo - G1 (1 Vaga)
+--------------------------------------------------
 
 Venha trabalhar no time responsável pelo [G1](http://g1.globo.com), um dos
 maiores portais brasileiros de notícias e informação.
