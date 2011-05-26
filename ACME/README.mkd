@@ -1,0 +1,73 @@
+Autor: Fernando Cezar
+
+# Sobre o programa #
+Esse programa foi escrito como parte do processo seletivo da Globo.com.
+
+### Sistema ###
+O programa foi feito para **MacOSX**, mas também é compatível com **Ubuntu 10.04** ou superior, e provavelmente com **Windows** (mas não foi testado).
+
+### Dependências ###
+* Python 2.6
+* GNU Automake 1.10
+
+### Compilando ###
+Por ser escrito em Python, o programa dispensa o script _configure_.
+Para compilar basta digitar
+
+>make
+
+e será criado um arquivo executável chamado _main_
+
+Para limpar o arquivo criado, digite
+> make clean
+
+### Executando ###
+Existem dois modos de executar:
+
+1. > ./main
+Esse modo executa o programa como determinado pela especifidação, com temperatura inicial de 30 graus, temperatura desejada de 20 graus, tempo total de 360 segundos.
+
+2. > ./main temperatura\_inicial temperatura\_desejada tempo\_total
+Esse modo executa o programa com os argumentos passados.
+
+# Definição do problema #
+
+#### Sistema de Ar-Condicionado ####
+
+A ACME ltda. está produzindo um novo ar-condicionado totalmente
+digital. Eles contrataram você pra fazer o algoritmo que refrigera o
+ambiente.
+
+A função que você precisa implementar deverá ter o seguinte modelo:
+
+refrigera(temp\_atual, temp\_desejada, ...)
+
+As ... são parametros adicionais. Você pode solicitar parâmetros
+extras como configurações, por exemplo.
+
+O hardware do ar-condicionado possui uma função que você pode chamar que é:
+
+reduz\_um\_grau()
+
+Esta função reduz exatamente um grau na temperatura do ambiente (doh).
+É MUITO IMPORTANTE LEMBRAR QUE CADA CHAMADA DESTA FUNÇÃO CUSTA O
+EQUIVALENTE A R$ 0,10 para o cliente em energia. Além disso, cada vez
+que o ar liga (a primeira vez que esta função é chamada na sua função)
+o cliente paga R$ 0,50. Este é o custo de ligar o compressor.
+
+A temperatura do ambiente retorna gradualmente pra cima.
+
+A sua função deve ainda retornar uma tupla com a temperatura final e o
+custo da redução de temperatura.
+
+A ACME solicitou que você implemente a função MAIS EFICIENTE POSSÍVEL
+que mantenha o quarto refrigerado conforme o cliente solicitar. Os
+argumentos temp_atual e temp_desejada serão passados pra você pelo
+ar-condicionado.
+
+Para testar a sua função escreva um programa que escreva na tela o
+custo total do ar-condicionado rodando durante 360 minutos, sendo que
+a cada minuto a temperatura do ambiente sobe 0,5 grau C. A temperatura
+inicial é de 30 graus C e a temperatura desejada é de 20 graus C.
+
+Considere para este problema que os seres humanos não conseguem diferenciar temperaturas para cima ou para baixo até 2 graus.
