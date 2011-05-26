@@ -1,9 +1,132 @@
 Vaga
 ====
 
-[Preencha aqui a vaga que você pretende]
+Desenvolvedor Sênior - Equipe Home Globo.com
 
 CV
 ==
 
-[Preencha aqui o seu cv]
+
+Bruno César Dias da Silva
+Twitter: bcdds
+E-mail: bruno.cesar.dias@gmail.com
+
+---------------------
+Formação Acadêmica: 
+---------------------
+Engenharia de Software com Ênfase em Design e Desenvolvimento de Widget
+
+C.E.S.A.R.
+2010.2
+
+Sistemas para Internet (Web Design)
+
+Faculdade Marista Recife
+2009.1
+
+---------------------
+Idioma:
+---------------------
+Inglês
+Elementary English no SENAC 
+
+---------------------
+Produção Técnica:
+---------------------
+Widgets: Wigochi, EcoAmigo, D’Cifras e Impresadinho
+More Widget (via Corby Samsung)
+
+Twiter Recife
+http://www.twiterrecife.com.br
+
+Diário de Operação – METROREC (Sistema)
+http://estacao.metrorec.com.br
+
+Rede Pesport (sistema)
+http://www.redepesport.com.br/sistemaPesport
+
+Neoh – Núcleo Especializado em Oncologia e Hematologia 
+http://www.neohmemorial.com.br
+
+14º CISO – Encontro de Ciências Sociais do Norte e Nordeste
+http://xivciso.kinghost.net
+
+Faculdade Católica do Ceará
+http://www.catolicaceara.edu.br
+
+Portal Carpina
+http://www.portalcarpina.com.br
+
+Observatório da Mídia Regional
+http://www.ufpe.br/observatorio
+
+
+---------------------
+Experiência Profissional:
+---------------------
+C.E.S.A.R. - Residência Samsung (Widget)
+Período: 6 meses (2010.1 a 2010.2)
+Função: Bolsista
+Principais Atividades:
+•	(X) HTML
+•	CSS
+•	Java Script
+•	Web Standards
+•	Design
+•	Prototipação
+•	Realização e Análise de Pesquisas
+•	Teste de Software
+•	Documentações
+
+
+Marisco Desenvolvimento Web
+Período: 1 ano e 6 meses (2009.1 à 2010.2) 
+Função: Sócio
+Principais Atividades:
+•	Front-End
+o	(X) HTML
+o	CSS
+o	Java Script
+o	Web Standards
+•	Back-End
+o	Modelagem e Criação de Banco de Dados
+o	Programação PHP, Javascript
+o	CMS – Gereciador de Conteúdo (Wordpress)
+
+
+Núcleo de Pesquisa e Desenvolvimento Marista (PEDEM) – Faculdade Marista Recife
+Período: 1 ano (2008.2 a 2009.1)
+Função: Estagiário
+Principais Atividades:
+•	Front-End
+o	(X) HTML
+o	CSS
+o	Java Script
+o	Web Standards
+•	Back-End
+o	Modelagem e Criação de Banco de Dados
+o	Programação PHP, Javascript
+o	CMS – Gereciador de Conteúdo (Wordpress)
+
+---------------------
+Outras atividades relevantes:
+---------------------
+Curso de Férias
+
+Período: 15 e 19 Dezembro de 2008
+Principais atividades: 
+•	Lecionar aulas de Programação em PHP
+
+Principais Cursos:
+
+Curso de Desenvolvimento de Aplicações Móveis na Plataforma Samsung BADA
+
+Período: 22/07/2010 à 24/07/2010 e 26/07/2010 à 28/07/2010
+
+Carga Horária: 48h
+
+Curso de PHP e MySQL
+
+Período: 27/06/2007 à 28/09/2007
+
+Carga Horária: 52h
