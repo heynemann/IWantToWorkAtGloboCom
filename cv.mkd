@@ -1,9 +1,0 @@
-Vaga
-====
-
-[Preencha aqui a vaga que você pretende]
-
-CV
-==
-
-[Preencha aqui o seu cv]
