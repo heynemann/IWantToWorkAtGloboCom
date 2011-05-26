@@ -8,10 +8,16 @@ Created by Fernando Cezar on 2011-05-26.
 
 
 def main(argv):
-    temperatura_inicial = 30
-    temperatura_atual = 30
-    temperatura_desejada = 20
-    tempo_total = 360
+    if len(argv) != 4:
+      temperatura_inicial = 30
+      temperatura_atual = 30
+      temperatura_desejada = 20
+      tempo_total = 360
+    else:
+      temperatura_inicial = float(argv[1])
+      temperatura_atual = float(argv[1])
+      temperatura_desejada = float(argv[2])
+      tempo_total = int(argv[3])
     
     controle = Controle(temperatura_inicial)
     
