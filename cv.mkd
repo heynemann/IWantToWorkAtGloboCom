@@ -1,9 +1,192 @@
 Vaga
 ====
 
-[Preencha aqui a vaga que você pretende]
+* Desenvolvedor Sênior - Equipe Home Globo.com
+* Alguma vaga relacionada a Django/Python
 
 CV
 ==
 
-[Preencha aqui o seu cv]
+Dados pessoais
+--------------
+
+Nome: Douglas Soares de Andrade  
+Data de nascimento: 15/07/1982  
+Email: contato@douglasandrade.com  
+Twitter: douglasandrade  
+
+Github: http://github.com/dsarch  
+Bitbucket: http://bitbucket.org/douglas  
+
+Objetivos
+---------
+
+Aprimorar as habilidades já adquiridas e participar de projetos interessantes e
+desafiadores, produzidos preferencialmente em software livre, que me permitam
+crescer cada vez mais como profissional e como pessoa.
+
+Sou autodidata por natureza e sempre busco estar a par das novas tecnologias
+e maneiras de executar as atividades de maneira mais produtiva e eficaz.
+
+Gosto de trabalhar em equipe e tenho muita facilidade para ensinar e aprender.
+
+Formação
+--------
+
+* __2004/2006 –  Trancado - Centro Universitario do Leste de Minas Gerais__  
+  Bacharelado em Sistemas de Informação
+
+  * Não terminei o curso porque veio o segundo filho e tive que trabalhar mais
+    pra dar conta do recado.
+
+* __2000/2002 –  Colégio Universitário Padre de Man__  
+  Curso Técnico de Informática
+
+Atividades extras
+-----------------
+
+Desenvolvedor voluntário em projetos opensource:
+
+* __Web2py__
+    * Vários patches para correção e aprimoramento
+    * Referência: http://www.web2py.com/examples/default/who
+
+* __PyQt4__
+    * Conversão dos exemplos de Qt4/C++ para PyQt4
+    * Pode ser verificado no arquivo THANKS baixando a ultima release
+      do PyQt
+
+* __Plone__
+    * Correções de produtos do Plone Collective
+        * PlonePopoll
+        * PloneOntology
+        * ZopeSkel
+
+* __Archlinux__
+    * Fui um dos desenvolvedor do projeto
+        * Mantenedor de pacotes
+    * Fui um dos TU – Trusted User
+        * Mantenedor de pacotes
+    * AUR –  (Repositório de pacotes)
+        * Desenvolvedor –  PHP
+    * Referência: http://www.archlinux.org/fellows/#douglas
+
+* __Archlinux-BR__
+    * Um dos fundadores do projeto e primeiro líder
+    * Desenvolvedor do site (Django) e responsável pela Infraestrutura
+
+* __Palestrante em vários eventos de Software Livre__
+    * 2009 –  FLISOLDF/Consegi
+        * Ofcina sobre Archlinux
+    * 2009 – FISL10 –  (Fórum Internacional de Software Livre)
+        * Projeto Archlinux e Archlinux-br
+        * Web2py
+    * 2008 - PyconBrasil 4
+        * Dicas de otimização para servidores Zope e Plone
+    * 2008 - FISL9 – (Fórum Internacional de Software Livre)
+        * Archlinux: “Uma distribuição otimizada para i686”
+        * PyQt: “Escrevendo  aplicativos em PyQt4” 
+    * 2004/2006 - Palestrante em diversos eventos no UnilesteMG
+        * Python: 1001 Utilidades
+        * Apresentando Python
+
+Experiências
+============
+
+* __26/06/2009 –  Atual –  Dataprev/MPOG__
+
+    * Desenvolvimento de portais e sistemas em Django, Wordpress e
+      Drupal.
+    * Desenvolvimento, aprimoramento e manutenção dos sistemas (Django) do
+      programa Telecentros.BR (Inclusão Digital).
+
+* __13/08/2007 –  23/06/2009 –  ThreePointsWeb/Liberiun__
+
+    * Desenvolvedor
+        * Desenvolvimento de grandes portais em Zope/Plone
+        * Líder da equipe de desenvolvimento preparando e ajudando os
+          desenvolvedores mais novos na plataforma Zope/Plone
+        * Desenvolvimento de uma solução para integrar serviço de streaming no
+          Plone
+        * Diversos patches para projetos do Plone Collective
+            * PlonePopoll
+            * PloneOntology
+            * ZopeSkel
+
+    * SysAdmin
+        * Desenvolvimento de técnicas para utilizar melhor os recursos dos 
+          servidores para garantir performance utilizando ferramentas livres
+        * Gerenciamento e instalação de servidores Bind (DNS), Apache (http) e 
+          Zope/Plone para a empresa e para diversos clientes, como Embrapa,
+          Unesco, Caixa Economica Federal e ITEC/AL
+        * Implementação do sistema de controle de projetos e tickets (Redmine)
+          e implantação do DVCS Mercurial na empresa, transformando a forma como
+          os projetos são gerenciados
+        * Auditor de problemas de performance e de desenvolvimento do portal do 
+          Sebrae e do projeto Universidade Caixa, da Caixa Economica Federal
+        * Análise de falhas de segurança e desenvolvimento de firewalls (iptables)
+          para melhorar a segurança dos servidores
+
+    * Instrutor
+        * Desenvolvimento do material (apostilas e livros) utilizados nos
+          treinamentos da empresa
+        * Instrutor nos cursos de Plone Básico, Plone Avançado, Python,
+          Javascript e Administração de Servidores para os seguintes clientes: 
+            * UnB
+            * Caixa Economica Federal
+            * Correios
+            * ITEC/AL
+            * STM –  Supremo Tribunal Militar
+            * TSE
+*   __03/01/2007 –  31/07/2007 –  Paradigma__
+
+    * Desenvolvedor
+        * Desenvolvimento de sistemas Zope/Plone - Coreblox
+        * Customização e criação de Templates, novos tipos (Archetypes) e
+          aplicações gerais
+        * Automatização do processo de criação de instancias através do portal da
+          empresa usando python, paramiko, shell script, mysqldb
+        * Refatoração de partes do produto para efetuar melhorias diversas no código
+
+    * SysAdmin
+        * Administração dos servidores da Coreblox:
+            * Servidor Apache, FTP, ZEO e instâncias Zope/Plone
+            * Análise e testes de segurança dos servidores
+            * Gerenciamento de usuários e permissões
+            * Gerenciamento do repositório Subversion
+
+Coisas das quais me orgulho
+===========================
+
+* __Geral__
+    * Ter aprendido boa parte das coisas (linguagens,sysadmin,metodologias)
+      por esforço próprio, estudando muito de madrugada e sacrificando várias
+      coisas para me tornar melhor, pois com as crianças eu não poderia
+      terminar a graduação tão cedo - e assim, eu sabia que teria que
+      correr 'por fora' pra chegar perto das pessoas que eu admirava e
+      conseguir trabalhos melhores
+
+* __Archlinux__
+    * Ter tido contato com várias pessoas muito inteligentes e com a cultura
+      opensource, tendo que atender os usuários da distribuição, triagem de
+      problemas, conversar com outras distros para arrumarmos patches para
+      resolução dos problemas
+    * Ter sido o primeiro TU (trusted user) no brasil
+    * Ter ajudado na criação do Archlinux-br
+
+* __Liberiun__
+    * Introduzir Varnish, Pound, Mercurial e Redmine na empresa
+    * Ter participado da equipe que criou uma ferramenta de invalidação de
+      cache inteligente pro Plone/Varnish de acordo com o contexto em que o
+      usuário está
+    * Escrito vários guias e manuais para os cursos da empresa
+    * Aprender que ter uma empresa e gerencia-la não é uma coisa fácil
+    * Aprender que ter postura firme e caráter cativam as pessoas e abrem
+      portas
+
+* __Paradigma__
+    * Ter escrito um sistema de deploy para a Coreblox em que bastava que o
+      usuário solicitasse uma instância de teste que o sistema (PHP) passava
+      o pedido para um shellscript que passava o controle pra uma aplicação
+      em Python (via paramiko) que interagia com os servidores, criando as
+      instâncias necessárias
