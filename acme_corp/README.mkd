@@ -1,0 +1,139 @@
+Problema da seleção para a Globo.com
+====================================
+
+Desenvolvimento
+---------------
+
+O sistema foi desenvolvido em um OSX 10.6 e foi testado em um ubuntu
+Maverick.
+
+Procurei utilizar apenas a stdlib do python para realizar as operações segundo
+a demanda do cliente.
+
+Requisitos
+----------
+
+* (ok) Eu preciso conseguir rodar seu código no mac os x ou no ubuntu
+    
+    * O sistema foi testado no OSX (python 2.5, 2.6 e 2.7) e no Ubuntu Maverick
+
+* (ok) Eu vou executar seu código com os seguintes comandos:
+
+        git clone seu-fork
+        cd seu-fork
+        ./configure
+        make
+
+* (ok) A função que você precisa implementar deverá ter o seguinte modelo:
+
+        refrigera(temp_atual, temp_desejada, ...)
+
+* (ok) O hardware do ar-condicionado possui uma função que você pode chamar que
+       é:
+
+        reduz_um_grau()
+
+* (ok) Esta função reduz exatamente um grau na temperatura do ambiente (doh).
+       É MUITO IMPORTANTE LEMBRAR QUE CADA CHAMADA DESTA FUNÇÃO CUSTA O
+       EQUIVALENTE A R$ 0,10 para o cliente em energia. Além disso, cada vez que
+       o ar liga (a primeira vez que esta função é chamada na sua função) o
+       cliente paga R$ 0,50. Este é o custo de ligar o compressor.
+
+* (ok) A sua função deve ainda retornar uma tupla com a temperatura final e o
+       custo da redução de temperatura.
+
+* Para testar a sua função escreva um programa que escreva na tela o custo
+  total do ar-condicionado rodando durante 360 minutos, sendo que a cada minuto
+  a temperatura do ambiente sobe 0,5 grau C. A temperatura inicial é de
+  30 graus C e a temperatura desejada é de 20 graus C.
+
+    * Ok, o programa principal (core.py) tem um conjunto de rotinas para
+      executar esse teste, por isso não escrevi um módulo só pra chamar a função
+      e retornar o valor gasto. Para testes maiores eu escrevi um painel de
+      controle (programa) que pode gerenciar o arcondicionado, testando a lógica
+      desenvolvida. Sobre o modo de execução, veja a seção __Como executar__.
+
+
+Como executar
+-------------
+
+Faça um clone do projeto do meu fork:
+
+    git clone git@github.com:dsarch/IWantToWorkAtGloboCom.git
+
+Entre no diretório _IWantToWorkAtGloboCom_
+
+    cd IWantToWorkAtGloboCom
+
+Para efetuar o programa em modo de teste, basta rodar o comando:
+
+    make
+
+Esse comando make executa o arcondicionado em modo de teste, ou seja, nao
+rodamos o teste com agendamento por tempo, mas por numero de execuções
+- o que dá no mesmo, só executa anos-luz mais rápido. Se quiser rodar o teste de
+forma sincrona (e fiel ao enunciado do problema), basta executar o seguinte
+comando (vai demorar 6h (360/60) para executar)
+
+    make sincrono
+
+
+Painel
+======
+
+Como resolvi seguir o enunciado do problema e lidar com agendamento por tempo
+, eu precisava de um modo pra testar o arcondicionado em tempo (quase) real
+e enviar comandos para verificar o estado do arcondicionado, tais como:
+
+* a temperatura
+* os gastos
+* fluxos internos
+
+Pra isso, criei um painel de controle (dá pra plugar Tk facinho pra ficar mais
+interessante) para testar o arcondicionado.
+
+De ínicio, eu tinha pensado em algo client/server, mas seria um pouco complicado
+pra sincronizar as threads e execuções entre os chamados, dai lembrei do módulo
+_Cmd_, que fazia exatamente o que precisava e eu acho que o resultado ficou
+muito bacana.
+
+Comandos
+--------
+
+* __info__  
+        
+        Retorna a temperatura atual e os gastos e execucoes
+
+* __refrigera__ _tempatual_ _tempdesejada_ _acionamento_ _execucoes_
+        
+        Liga o ar condicionado e mantem a temperatura estavel
+  
+* __desligar__  
+        
+        Desligar o ar condicionado
+
+* __status__  
+        
+        Mostra se o ar estah ligado ou desligado
+    
+* __quit__  
+        
+        Sair do painel e desligar o ar condicionado
+
+Exemplo de uso
+--------------
+
+    $ python acmectl.py 
+    (Cmd) status
+    Desligado
+    (Cmd) refrigera 30 20 1 5
+    Ar condicionado ligado e resfriando !
+    (Cmd) status
+    Ligado
+    (Cmd) info
+    Temperatura: 21.5 / Gastos: 1.4 / Execucoes: 3
+    (Cmd) info
+    Temperatura: 21.5 / Gastos: 1.5 / Execucoes: 5
+    (Cmd) status
+    Desligado
+    (Cmd) quit
