@@ -25,11 +25,11 @@ Para limpar o arquivo criado, digite
 ### Executando ###
 Existem dois modos de executar:
 
-\1. ./main
+1\. ./main
 
 Esse modo executa o programa como determinado pela especificação, com temperatura inicial de 30 graus, temperatura desejada de 20 graus, tempo total de 360 segundos.
 
-\2. ./main temperatura\_inicial temperatura\_desejada tempo\_total
+2\. ./main temperatura\_inicial temperatura\_desejada tempo\_total
 
 Esse modo executa o programa com os argumentos passados.
 
