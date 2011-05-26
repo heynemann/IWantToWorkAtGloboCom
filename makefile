@@ -1,11 +1,14 @@
-# Makefile simples para gerar um html do cv usando markdown
+# Makefile simples para executar o projeto
 
-MKD = markdown
+PYTHON = python
 
-all: html
+all: test
 
-html: cv.mkd
-	$(MKD) cv.mkd > cv.html
+test:
+	cd acme_corp && $(PYTHON) core.py
 
-clean: cv.mkd
-	-rm cv.html
+sincrono:
+	cd acme_corp && $(PYTHON) core.py sincrono
+
+painel:
+	cd acme_corp && $(PYTHON) acmectl.py

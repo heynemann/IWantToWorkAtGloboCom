@@ -1,12 +1,20 @@
 # coding: utf-8
 
+# stdlib
 import time
+import sys
 
+# para execucao assincrona de tarefas
 from threading import Timer
-import multiprocessing
 
 class ArCondicionado(object):
     def __init__(self):
+        """
+        Pode parecer desnecessario, mas estou iniciando esses valores aqui
+        para que o arcondicionado possa ser inspecionado no painel tao logo
+        ele seja instanciado (ao inves de depender do metodo refrigera)
+        """
+
         self.gastos = 0
         self.state = 0
         self.runs = 0
@@ -24,7 +32,8 @@ class ArCondicionado(object):
         else:
             self.gastos += 0.10
         
-    def refrigera(self, temp_atual, temp_desejada, acionamento=1, execucoes=5):
+    def refrigera(self, temp_atual, temp_desejada, acionamento=1,
+                                    execucoes=5, exec_mode=0):
         """
         Efetua a refrigeracao do ambiente
 
@@ -37,16 +46,22 @@ class ArCondicionado(object):
                          consideracao o crescimento vegetativo da mesma
             execucoes: Quantas vezes o processo de manter a temperatura deve ser
                        acionado
+            exec_mode: Modos de execucao da refrigeracao
+                            assincrono (0), para ser utilizado com o painel
+                            sincrono (1), utiliza agendamento em segundos
+                            teste (2), utiliza apenas controle por execucoes
         """
+        
+        if temp_desejada > temp_atual: return
 
         self.state = 1 # ligando o ar
         self.runs = 0
-        self.gastos = 0
         self.temp_atual = temp_atual
         self.temp_desejada = temp_desejada
         
-        # Variaveis de controle de execucao - po, eh tem um painel avancado de
-        # controle =)
+        # Variaveis de controle de execucao - po, eh que tem um painel
+        # avancado =)
+        self._exec_mode = exec_mode
         self._acionamento = acionamento
         self._execucoes = execucoes
 
@@ -62,33 +77,42 @@ class ArCondicionado(object):
             self._reduz_um_grau()
         
         # Agora precisamos vigiar o crescimento vegetativo de 0.5 grau por
-        # minuto, para tanto, vamos preparar um marcar um tarefa para manter a
-        # temperatura na condicao requerida
+        # minuto para manter a temperatura na condicao requerida
         #
         # Lembrando que estamos utilizando a variavel de controle acionamento
         # para facilitar os testes (a unidade de acionamento eh o segundo)
         #
-        # Tambem estou usando a ideia de rodar essas tarefas de forma assincro
+        # Tambem estou usando a ideia de rodar essas tarefas de forma assincro-
         # na pois cheguei a pensar no caso do painel de controle onde o ar deve
         # continuar sendo executado e mantendo a temperatura
         #
-        # Tive uma dor de cabeca grande com Threads por ter muito pouco conheci
-        # mento sobre o assunto, mas com o multiprocessing ficou sensacional.
-        # No entanto, precisei usar Timer para rodar em outra thread, tentei
-        # simplificar utilizando um loop mas nao deu certo, entao vai assim
-        # mesmo
-        self._agendar_acionamentos()
+        # Depois de ler um pouco mais sobre threads, vi que nao precisava usar
+        # o multiprocessing pois estava criando uma nova thread em um novo
+        # processo desnecessariamente, agora ficou bem mais limpo.
+        return self._agendar_acionamentos()
         
     def _agendar_acionamentos(self):
         """
         Metodo responsavel por agendar os acionamentos do ar condicionado
-        de forma assincrona, permitindo que possamos inspecionar a execucao
-        do ar condicionado no painel
+        de acordo com o modo de execucao escolhido.
+
+        Temos tres modos de execucao aqui (detalhados no metodo refrigera)
         """
 
-        timer = Timer(self._acionamento, self._manter_temperatura)
-        processo = multiprocessing.Process(timer.start())
-        processo.start()
+        if self._exec_mode == 0:
+            timer = Timer(self._acionamento, self._manter_temperatura)
+            timer.start()
+        else:
+            if self._exec_mode == 1:
+                time.sleep(self._acionamento)
+
+            self._manter_temperatura()
+            
+            # IMPORTANTE: Os valores soh podem ser retornados para chamadas
+            # sincronas, caso contrario, retornaremos valores errados pois a
+            # thread de agendamento certamente nao terah executado (talvez nem
+            # mesmo iniciado)
+            return (self.temp_atual, self.gastos)
     
     def _manter_temperatura(self):
         """
@@ -133,16 +157,21 @@ class ArCondicionado(object):
 
 
 if __name__ == "__main__":
-    ar = ArCondicionado()   
+    ar = ArCondicionado()
 
-    try:
-        ar.refrigera(30,20,1,5)
-        time.sleep(15)
-
-        # teste heynemman
-        #ar.refrigera(30,20,60,360)
-        #time.sleep(60*365) # vamos dar um tempo para o processamento
-    except KeyboardInterrupt, error:
-        print ar.info()
+    exec_modes = {'assincrono': 0,
+                  'sincrono': 1,
+                  'teste': 2}
     
-    print ar.info()
+    if 'sincrono' in sys.argv:
+        modo = exec_modes['sincrono']
+    else:
+        modo = exec_modes['teste']
+
+    # O teste pedido para o programa, requer que rodemos isso 
+    configs = {'acionamento': 60,
+               'execucoes': 360,
+               'exec_mode': modo}
+
+    temp_final,gastos = ar.refrigera(30,20,**configs)
+    print ar.gastos

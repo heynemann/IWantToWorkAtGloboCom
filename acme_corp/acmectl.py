@@ -1,3 +1,5 @@
+# coding: utf-8
+
 from core import ArCondicionado
 
 import cmd
@@ -19,13 +21,22 @@ class PainelComando(cmd.Cmd):
         """refrigera temp_atual temp_desejada [acionamento] [execucoes]
         Liga o ar condicionado e mantem a temperatura estavel"""
 
-        temps = line.split(" ")
+        params = line.split(" ")
 
-        if len(temps) in [2,4]:
-            temps = map(lambda x: int(x), temps)
-            self.ar.refrigera(*temps)
-
-        print "Ar condicionado ligado e resfriando !"
+        if not len(params) in [2,4]:
+            print "Informe os argumentos corretos para refrigerar"
+        else:
+            try:
+                params = map(lambda x: int(x), params)
+            except:
+                print "Argumentos precisam ser inteiros"
+            else:
+                if params[0] <= params[1]:
+                    print "A temperatura desejada precisa ser menor que a atual"
+                else:
+                    self.ar.refrigera(*params)
+                    print "Ar condicionado ligado e resfriando !"
+        
     
     def do_desligar(self, line):
         """ Desligar o ar condicionado """
