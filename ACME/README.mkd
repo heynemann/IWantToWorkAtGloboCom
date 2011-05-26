@@ -12,7 +12,7 @@ O programa foi feito para **MacOSX**, mas também é compatível com **Ubuntu 10
 
 ### Compilando ###
 Por ser escrito em Python, o programa dispensa o script _configure_.
-Para compilar basta digitar
+Para compilar basta digitar, na raiz do projeto:
 
 >make
 
