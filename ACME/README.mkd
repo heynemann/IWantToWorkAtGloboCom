@@ -19,6 +19,7 @@ Para compilar basta digitar
 e será criado um arquivo executável chamado _main_
 
 Para limpar o arquivo criado, digite
+
 > make clean
 
 ### Executando ###
