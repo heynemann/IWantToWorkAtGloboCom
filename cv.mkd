@@ -1,9 +1,48 @@
 Vaga
 ====
 
-[Preencha aqui a vaga que você pretende]
+Área de Publicação de Conteúdo e Vendas<br />
+Equipe: Plataforma de busca e semântica
 
 CV
 ==
 
-[Preencha aqui o seu cv]
+INFORMAÇÕES PESSOAIS<br />
+Ighor Leonardo Santos Silva<br />
+Brasileiro, solteiro, 23 anos<br />
+Av Francisco Porto, 239, Ed. Ouro Velho, Ap 602<br />
+CEP 49020-120 – Treze de Julho  – Aracaju  – SE	<br />
+Contato: ighoor@gmail.com<br />
+<p >
+OBJETIVO:<br />
+•	Cargo na área de tecnologia da informação com possibilidade de crescimento;<br />
+</p>
+<p>
+FORMAÇÃO:<br />
+•	Bacharel em Ciência da Computação pela Universidade Federal de Sergipe. Conclusão em 2010.2.<br />
+</p>
+<p>
+EXPERIÊNCIA<br />
+•	Iniciação Científica: Laboratório de Acesso Remoto para experimentos de Software e Hardware <br />
+•	Estágio na Secretaria de Segurança Pública – Julho e Agosto de 2010;<br />
+•	Estágio na Imagem Empresarial - Desenvolvedor Web – Agosto e Setembro de 2010;<br />
+•	Cargo de Técnico de Informática Nível 3 - Desenvolvedor Web – Coordenação de Concurso Vestibular da UFS<br />
+                  8 meses - Outubro de 2010 até Maio de 2011.<br />
+</p>
+<p>
+QUALIFICAÇÕES<br />
+•	Inglês  - OACI Indiomas;<br />
+•	ERBASE – 2006: Mini-curso Introdução a Jogos Digitais;<br />
+•	ENECOMP – 2008: Mini-curso Programação Orientada a Aspectos<br />
+•	SECOMP – 2010: Mini-curso PHP;<br />
+</p>
+<p>
+OUTRAS INFORMAÇÕES<br />
+Conhecimento profissional/prático em:<br />
+•	Java, C++, PHP, HTML, CSS, JSF, ASP, Javascript, Ajax;<br />
+•	Banco de dados e SQL;<br />
+•	Padrão de projeto: MVC;<br />
+<br />
+•	Diferencial: conhecimento de Mineração de Texto, Processamento de Linguagem Natural e áreas correlatas. Para meu trabalho de conclusão de curso (Sistema de Recomendação de usuários do Twitter baseado em conteúdo) desenvolvi um sistema capaz de encontrar prováveis profiles de interesse do usuário através da similaridade entre as publicações de cada um.<br />
+</p>
+
